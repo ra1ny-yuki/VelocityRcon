@@ -4,7 +4,7 @@ Add RCON support to Velocity.
 # What is this?
 This allows using RCON Protocol in Velocity servers. You can send commands and read their results remotely.
 
-You should use RCON for these situations:
+You should use RCON for these situations: 
 - Communication between Paper/Sponge and Velocity servers.
 - Or even Velocity to Velocity communication.
 - You can use commands (to reward donators, punish players, etc.) from PHP and many other language.
